@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestngSuite">
+	<test name="TestngTest">
+		<classes>
+			<class name="com.maven.com.maven_projrct.TestNGDriverDemo"/>
+		</classes>
+	</test>
+</suite>
